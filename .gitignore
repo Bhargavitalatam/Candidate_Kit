@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments and secrets
+.venv/
+venv/
+ENV/
+env/
+.env
+.env.*
+*.env
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Log files
+*.log
